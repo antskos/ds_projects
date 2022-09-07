@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def random_predict(number: int = 1) -> int:
     """
     guessing the number
@@ -23,15 +24,17 @@ def random_predict(number: int = 1) -> int:
         if number == predict_number:
             break
         elif number < predict_number:
-                max_number = predict_number
-                predict_number = predict_number - (max_number - min_number) // 2
+            max_number = predict_number
+            predict_number = predict_number - (max_number - min_number) // 2
         else:
             min_number = predict_number
             predict_number = predict_number + (max_number - min_number) // 2
 
     return count
 
+
 random_predict(100)
+
 
 def score_game(random_predict) -> int:
     """
