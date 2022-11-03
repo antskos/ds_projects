@@ -1,2 +1,10 @@
 /project1/data/dst-3.0_16_1_hh_database.csv
 /project1/data/ExchangeRates.csv
+/.idea/.gitignore
+/.idea/ds_projects.iml
+/project1/images/gr1.svg
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/project1/.ipynb_checkpoints/Project_1-checkpoint.ipynb
+/.idea/vcs.xml
