@@ -2,7 +2,7 @@
 
 ### Выполнены следующие работы:
 1. Проект 0: [Игра угадай число](https://github.com/antskos/ds_projects/tree/project1/project0) 
-2. Проект 1: [Анализ анкет соискателей с сайта Head Hunter](https://github.com/antskos/ds_projects/tree/project1/project1)
+2. Проект 1: [Анализ анкет соискателей с сайта Head Hunter](https://github.com/antskos/ds_projects/tree/master/project1)
 
 
 
